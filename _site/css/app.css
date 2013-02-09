@@ -412,3 +412,8 @@ body .one .bsa_it_p {
 		width: 1168px; /* 2px less to account for left/right borders being removed when in fixed mode */
 	}
 }
+a.brand:hover { color: #888; }
+.document { min-height: 420px; }
+.footer-ruler { margin-top: 50px; }
+footer { margin-top: 30px; }
+.copyright { font-size: 12px; color: #666; }

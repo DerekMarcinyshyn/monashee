@@ -2,9 +2,9 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<title>FastCGI Data Timeout Error</title>
-		<meta name="description" content="" />
-		<meta name="keywords" content="revelstoke," />
+		<title>Revelstoke Web Hosting</title>
+		<meta name="description" content="Fast page loads using Litespeed web server. PHP 5.3.10" />
+		<meta name="keywords" content="revelstoke,litespeed,php,mysql" />
 		
 		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico" />
 		<link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -81,29 +81,9 @@
 			
 			<div class="container document">
 				<div id="post">
-	<p>If you are running a WHM/cPanel server and have FastCGI enabled in Apache you may find the following error which caused your website to hang and display the ’500 Internal Server Error’ message. This can happen when you are asking your site to do something resource hungry such as reindexing a database or clearing a cache. We were having an issue in the admin section of a fairly large Magento Enterprise Edition ecommerce site.</p>
+	<p>Looking for fast page loads with minimal configuration on your part? Are you web designer that is scared of code? Or a business owner who is tired of seeing the spinning wheel waiting for page loads on your own site?</p>
 
-<p>Checking into the <strong>/etc/httpd/logs/error_log</strong> file you may see something like:</p>
-
-<pre><code>[Sat ...] [warn] [client ...] (104)Connection reset by peer: mod_fcgid: error reading data from FastCGI server
-[Sat ...] [error] [client ...] Premature end of script headers: index.php</code></pre>
-
-<p>This is caused by mod_fcgid reaching its default timeout in processing the request. I thought I had the issue solved with increasing the timeout value for php but found the server logs told a different story. To remedy the issue:</p>
-
-<p>Edit <strong>/usr/local/apache/conf/includes/pre_virtualhost_global.conf</strong></p>
-
-<p>and add:</p>
-
-<pre><code>FcgidMaxRequestLen 1073741824
-FcgidProcessLifeTime 8200
-FcgidIOTimeout 8200
-FcgidConnectTimeout 300</code></pre>
-
-<p>You may have different requirements so adjust your settings accordingly.</p>
-
-<p>You will need to restart Apache to load the new settings.</p>
-
-<p>For more information, please refer to the <a href='http://httpd.apache.org/mod_fcgid/mod/mod_fcgid.html'>Apache Module mod_fcgid</a> page.</p>
+<p>Check out <a href='https://revelstokewebhosting.com'>Revelstoke Web Hosting</a>! We have a web packages for you. We can also can set up and configure custom server packages specific for your project.</p>
 </div>
 			</div>
 		</div>
