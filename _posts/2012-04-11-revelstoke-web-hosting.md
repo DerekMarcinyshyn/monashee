@@ -2,7 +2,7 @@
 title: Revelstoke Web Hosting
 author: Derek
 layout: post
-permalink: /revelstoke-web-hosting.htnl
+permalink: /revelstoke-web-hosting.html
 Title:
   - 'Revelstoke Web Hosting - High Performance Litespeed Web Hosting'
 Description:
@@ -17,4 +17,4 @@ Looking for fast page loads with minimal configuration on your part? Are you web
 
 Check out [Revelstoke Web Hosting][1]! We have a web packages for you. We can also can set up and configure custom server packages specific for your project.
 
- [1]: https://revelstokewebhosting.com
+[1]: https://revelstokewebhosting.com

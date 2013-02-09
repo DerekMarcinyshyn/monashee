@@ -2,7 +2,7 @@
 title: Real-time trending Twitter and Google Maps
 author: Derek
 layout: post
-permalink: /real-time-trending-twitter-and-goolge-maps.html
+permalink: /real-time-trending-twitter-and-google-maps.html
 categories:
   - Twitter
 ---

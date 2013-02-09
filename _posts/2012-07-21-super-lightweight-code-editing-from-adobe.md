@@ -13,3 +13,6 @@ This new open-source project from Adobe is called [Brackets][1]. It still is ver
  [2]: https://github.com/adobe/brackets
 
 Here is their video showing its features:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rvo3Mv1Z4qU" frameborder="0" allowfullscreen="allowfullscreen" >
+</iframe>
