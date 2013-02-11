@@ -5,5 +5,5 @@
  * @since	February 10, 2013
  */
 $(document).ready(function() {
-	$('.document').fadeIn();
+	$('.document').fadeIn(600);
 });
