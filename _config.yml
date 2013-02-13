@@ -3,3 +3,5 @@ markdown: maruku
 pygments: true
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
