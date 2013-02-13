@@ -16,13 +16,17 @@
 	</head>
 	
 	<body>
-		<div class="wrapper">
+		<div class="container">
+			<div class="row">
 			
-			{% include nav.html %}
-			
-			<div class="container document">
-				{{ content }}
-			</div>
+				{% include nav.html %}
+				
+				<div class="document span9">
+					{{ content }}
+				</div>
+				
+				{% include sidebar.html %}
+			</div>			
 		</div>
 		
 		<hr class="footer-ruler">
