@@ -56,4 +56,6 @@ It’s obvious that positioning your business to operate in this manner does not
 
 After everything that we’ve covered it’s hard to imagine thinking of a website the same way again. It’s so much more. It’s always evolving, it’s never finished and can truly change peoples lives. Websites are the new core business and more than ever they ARE your business.
 
-This was first posted here: 
+This was first posted here: [http://crowdedsites.com/news/building-businesses-not-websites/][8]
+
+ [8]: http://crowdedsites.com/news/building-businesses-not-websites/
