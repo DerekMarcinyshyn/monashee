@@ -413,7 +413,7 @@ body .one .bsa_it_p {
 	}
 }
 a.brand:hover { color: #888; }
-.document { min-height: 420px; display:none; }
+.document { min-height: 420px; }
 
 ul.projects { list-style: none; margin: 0 0 10.5px 0; }
 ul.projects i { font-size: 18px; color: green; }
