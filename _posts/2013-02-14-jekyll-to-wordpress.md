@@ -3,6 +3,7 @@ title: WordPress to Jekyll
 author: Derek
 layout: post
 permalink: /wordpress-to-jekyll.html
+Keywords: jekyll,wordpress
 categories:
   - WordPress
 ---
