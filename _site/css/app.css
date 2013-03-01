@@ -1,6 +1,5 @@
 body {
 	padding-top: 80px;
-	padding-bottom: 20px;
 }
 
 .navbar a > i {
@@ -423,5 +422,5 @@ ul.projects i { font-size: 18px; color: green; }
 .icon-edit { font-size: 18px; }
 
 .footer-ruler { clear:both; margin-top: 50px; }
-footer { margin-top: 30px; }
+footer { margin:50px 0 0 0; padding: 80px 0 30px 0; background: rgb(32, 34, 37); border: 1px solid #666; }
 .copyright { font-size: 12px; color: #666; }
