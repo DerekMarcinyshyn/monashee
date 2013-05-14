@@ -13,9 +13,9 @@ categories:
   - Web Hosting
 ---
 
-Today Revelstoke Web Hosting took the big leap to jump into the next version of [PHP][1]. This site is located on the Revelstoke Web Hosting servers which are located on the Peer1 Network in downtown Vancouver.
+Today Revelstoke Web Hosting took the big leap to jump into the next version of [PHP] [1]. This site is located on the Revelstoke Web Hosting servers which are located on the Peer1 Network in downtown Vancouver.
 
- [1]: http://php.net
+[1]: http://php.net
 
 We upgraded to the PHP 5.4.x branch which introduces many new features and speed optimizations for modern web development. Here is a list of [features][2] that have been included in the versions.
 
