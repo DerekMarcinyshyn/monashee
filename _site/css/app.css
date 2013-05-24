@@ -2,6 +2,10 @@ body {
 	padding-top: 80px;
 }
 
+a {
+	color: rgb(120, 156, 194);
+}
+
 .navbar a > i {
 	opacity: 0.5;
 }
