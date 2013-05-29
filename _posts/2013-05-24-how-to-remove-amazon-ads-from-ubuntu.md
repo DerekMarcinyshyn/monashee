@@ -10,9 +10,9 @@ Since Ubuntu 12.10, [Canonical] [1] adding Amazon searches right in your desktop
 
 You will need to open a Terminal window and run:
 
-```
+~~~ bash
 sudo apt-get remove unity-lens-shopping
-```
+~~~
 
 Type in your password when prompted, and when it's finished, log out. When you log back in, you should find that the Amazon ads no longer show up, but you can still search other web services from the Dash.
 
