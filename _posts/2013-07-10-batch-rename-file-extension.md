@@ -12,7 +12,7 @@ Today I needed to batch rename the file extensions of some files on the server s
 
 $ cd /path/to/folder/
 
-$ find -name '*.JPG' | sed 's/\(.*\)\.JPG/mv "\1.JPG" "\1.jpg"/' | sh
+$ find -name '*.JPG' | sed 's/\(.*\)\.JPG/mv "\\1.JPG" "\\1.jpg"/' | sh
 
 ~~~
 
