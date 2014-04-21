@@ -422,8 +422,9 @@ a.brand:hover { color: #888; }
 
 .date { color: #999; font-size: 12px; }
 
-ul.projects { list-style: none; margin: 0 0 10.5px 0; }
-ul.projects i { font-size: 18px; color: green; }
+ul.projects { list-style: none; margin: 0 0 14px 0 !important; }
+ul.projects li { margin: 0 0 8px 0; }
+ul.projects i { font-size: 16px; color: rgb(120, 156, 194); }
 
 .icon-edit { font-size: 18px; }
 
