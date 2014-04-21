@@ -11,6 +11,6 @@ It was time for another change. This is my 8th version of Monashee Mountain Mult
 * Super simple flat Html5 files
 * Minified and compressed html, css, js
 
-## Forking
+## Copyright
 
-Feel free to fork this repo. All the content and images are Copyright (c) Monashee Mountain Multimedia unless otherwise noted.
+All the content and images are Copyright (c) Monashee Mountain Multimedia unless otherwise noted.
